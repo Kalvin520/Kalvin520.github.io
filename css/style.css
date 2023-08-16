@@ -1,0 +1,14 @@
+body{
+    background-color:#fafafa;
+}
+
+.background{
+    width: 500px;   
+    content: 10px;
+    border: 3px dotted rgb(231, 190, 133);
+    border-radius: 10px;
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+    font-size: 3rem;
+}
